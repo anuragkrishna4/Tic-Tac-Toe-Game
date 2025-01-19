@@ -1,4 +1,4 @@
-Tic-Tac-Toe Game
+**Tic-Tac-Toe Game**
 
 
 A simple and fun Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It provides a smooth gaming experience with responsive design, animations, and a visually appealing interface. The game is designed with a dark mode theme for a sleek and modern look.
@@ -59,6 +59,4 @@ style.css: Provides styling, layout, and animations, including dark mode theme.
 
 script.js: Implements the game logic and interactivity.
 
-dancing-party.gif: Celebration animation for the winner.
-script.js: Implements the game logic and interactivity.
 dancing-party.gif: Celebration animation for the winner.
