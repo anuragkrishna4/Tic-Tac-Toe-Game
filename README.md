@@ -5,10 +5,15 @@ A simple and fun Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It prov
 Features:
 
 Interactive Gameplay: Players can take turns marking the grid.
+
 Winning Line Animation: Highlights the winning combination with a colored line.
+
 Hover Effects: Enhances user experience with interactive hover effects on grid cells.
+
 Dynamic Reset: Restart the game at any time with the reset button.
+
 Responsive Design: Adapts to various screen sizes for an optimal experience.
+
 Dark Mode: The game has a dark mode theme for better visual contrast and a modern aesthetic.
 
 Technologies Used:
