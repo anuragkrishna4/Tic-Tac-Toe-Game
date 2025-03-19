@@ -1,10 +1,10 @@
-**Tic-Tac-Toe Game**
+# **Tic-Tac-Toe Game**
 
 
 A simple and fun Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It provides a smooth gaming experience with responsive design, animations, and a visually appealing interface. The game is designed with a dark mode theme for a sleek and modern look.
 
 
-Features:
+# Features:
 
 
 Interactive Gameplay: Players can take turns marking the grid.
@@ -20,7 +20,7 @@ Responsive Design: Adapts to various screen sizes for an optimal experience.
 Dark Mode: The game has a dark mode theme for better visual contrast and a modern aesthetic.
 
 
-Technologies Used
+# Technologies Used
 
 
 HTML: For structuring the game elements.
@@ -30,12 +30,12 @@ CSS: For styling the layout, animations, and responsiveness.
 JavaScript: For implementing game logic and interactivity.
 
 
-How to Play?
+# How to Play?
 
 
 Setup: Open the index.html file in a browser.
 
-Game Rules:
+# Game Rules:
 
 The game board is a 3x3 grid.
 
@@ -50,7 +50,7 @@ If all cells are filled without a winner, the game ends in a tie.
 Reset the Game: Click the "Reset" button to start a new round.
 
 
-Project Files:
+# Project Files:
 
 
 index.html: Contains the structure of the game.
